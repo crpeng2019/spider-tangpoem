@@ -1,0 +1,13 @@
+# gitignore for spider-tangpoem
+
+# ignore app output
+/download
+/logs
+
+# ignore IDE output
+/target
+/out
+
+# ignore IDE set file
+/.idea
+*.iml
